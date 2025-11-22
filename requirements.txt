@@ -1,0 +1,14 @@
+streamlit
+langchain
+openai
+chromadb
+tiktoken
+pypdf
+sqlalchemy
+psycopg2-binary
+python-dotenv
+
+
+openai
+streamlit
+python-dotenv

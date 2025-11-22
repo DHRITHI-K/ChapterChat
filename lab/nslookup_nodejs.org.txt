@@ -1,0 +1,9 @@
+﻿Server:  one.one.one.one
+Address:  1.1.1.1
+
+Name:    nodejs.org
+Addresses:  2606:4700:10::ac42:8046
+	  2606:4700:10::6814:1fc
+	  172.66.128.70
+	  104.20.1.252
+

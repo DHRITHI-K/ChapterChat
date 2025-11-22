@@ -1,0 +1,7 @@
+﻿
+Connection Name Network Adapter Physical Address    Transport Name                                            
+=============== =============== =================== ==========================================================
+Wi-Fi           Intel(R) Dual B 58-FB-84-DF-95-53   \Device\Tcpip_{84FAA220-1E48-4D46-9042-3D107EF88B2B}      
+Bluetooth Netwo Bluetooth Devic 58-FB-84-DF-95-57   Media disconnected                                        
+Local Area Conn VeePN-TAP       00-FF-8D-71-77-9A   Media disconnected                                        
+Ethernet        VirtualBox Host 0A-00-27-00-00-05   \Device\Tcpip_{18C8DEA0-F702-49CE-93C9-10FEE9F3C4D2}      

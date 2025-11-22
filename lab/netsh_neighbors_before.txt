@@ -1,0 +1,71 @@
+﻿
+Interface 1: Loopback Pseudo-Interface 1
+
+
+Internet Address                              Physical Address   Type
+--------------------------------------------  -----------------  -----------
+224.0.0.22                                                       Permanent 
+224.0.0.251                                                      Permanent 
+224.0.0.252                                                      Permanent 
+239.255.255.250                                                  Permanent 
+
+Interface 14: Local Area Connection
+
+
+Internet Address                              Physical Address   Type
+--------------------------------------------  -----------------  -----------
+224.0.0.22                                    01-00-5e-00-00-16  Permanent 
+224.0.0.251                                   01-00-5e-00-00-fb  Permanent 
+224.0.0.252                                   01-00-5e-00-00-fc  Permanent 
+
+Interface 12: Wi-Fi
+
+
+Internet Address                              Physical Address   Type
+--------------------------------------------  -----------------  -----------
+10.0.0.2                                      7c-5a-1c-d1-43-e0  Reachable 
+10.0.15.255                                   ff-ff-ff-ff-ff-ff  Permanent 
+224.0.0.22                                    01-00-5e-00-00-16  Permanent 
+224.0.0.251                                   01-00-5e-00-00-fb  Permanent 
+224.0.0.252                                   01-00-5e-00-00-fc  Permanent 
+239.255.255.250                               01-00-5e-7f-ff-fa  Permanent 
+255.255.255.255                               ff-ff-ff-ff-ff-ff  Permanent 
+
+Interface 7: Local Area Connection* 1
+
+
+Internet Address                              Physical Address   Type
+--------------------------------------------  -----------------  -----------
+224.0.0.22                                    01-00-5e-00-00-16  Permanent 
+224.0.0.251                                   01-00-5e-00-00-fb  Permanent 
+224.0.0.252                                   01-00-5e-00-00-fc  Permanent 
+
+Interface 18: Local Area Connection* 2
+
+
+Internet Address                              Physical Address   Type
+--------------------------------------------  -----------------  -----------
+224.0.0.22                                    01-00-5e-00-00-16  Permanent 
+224.0.0.251                                   01-00-5e-00-00-fb  Permanent 
+224.0.0.252                                   01-00-5e-00-00-fc  Permanent 
+
+Interface 9: Bluetooth Network Connection 2
+
+
+Internet Address                              Physical Address   Type
+--------------------------------------------  -----------------  -----------
+224.0.0.22                                    01-00-5e-00-00-16  Permanent 
+224.0.0.251                                   01-00-5e-00-00-fb  Permanent 
+224.0.0.252                                   01-00-5e-00-00-fc  Permanent 
+
+Interface 5: Ethernet
+
+
+Internet Address                              Physical Address   Type
+--------------------------------------------  -----------------  -----------
+192.168.56.255                                ff-ff-ff-ff-ff-ff  Permanent 
+224.0.0.22                                    01-00-5e-00-00-16  Permanent 
+224.0.0.251                                   01-00-5e-00-00-fb  Permanent 
+224.0.0.252                                   01-00-5e-00-00-fc  Permanent 
+239.255.255.250                               01-00-5e-7f-ff-fa  Permanent 
+
